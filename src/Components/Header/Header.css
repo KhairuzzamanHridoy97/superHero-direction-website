@@ -1,0 +1,13 @@
+.header-img {
+  width: 15%;
+  height: 100px;
+  padding: 5px;
+}
+.header-container {
+  padding: 10px;
+}
+.header-content {
+  background-color: rgba(10, 182, 10, 0.459);
+  padding: 10px;
+  border-radius: 10px;
+}
